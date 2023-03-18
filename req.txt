@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 asgiref==3.6.0
 Django==4.1.7
 Pillow==9.4.0
 sqlparse==0.4.3
 tzdata==2022.7
+=======
+asgiref==3.6.0
+Django==4.1.7
+Pillow==9.4.0
+sqlparse==0.4.3
+tzdata==2022.7
+>>>>>>> 10d7cccbfeeab896232056b0d9cc66aaea795c47

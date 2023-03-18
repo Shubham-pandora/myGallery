@@ -126,7 +126,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
-<<<<<<< HEAD
 
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
@@ -135,5 +134,3 @@ EMAIL_PORT = 25 # Replace with the SMTP server port number
 EMAIL_USE_TLS = True # Enable TLS encryption
 EMAIL_HOST_USER = 'shubham@email.beta-wspbx.com' # Replace with your email address
 EMAIL_HOST_PASSWORD = 'shubham1921' # Replace with your email password
-=======
->>>>>>> 10d7cccbfeeab896232056b0d9cc66aaea795c47
